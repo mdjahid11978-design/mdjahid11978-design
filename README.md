@@ -1,75 +1,71 @@
 # Jahid
 
-AI systems architect • autonomous intelligence • agentic systems • platform engineering
+AI systems architect • autonomous intelligence • platform engineering
 
-**[Email](mailto:mdjahid11978@outlook.com)** | **[GitHub](https://github.com/mdjahid11978-design)**
+**GitHub:** [mdjahid11978-design](https://github.com/mdjahid11978-design)  
+**Email:** [mdjahid11978@outlook.com](mailto:mdjahid11978@outlook.com)
 
 ---
 
 ## About
 
-I build systems at the intersection of AI, architecture, autonomy, and execution. My work focuses on designing unified intelligence platforms where agents, tools, mission planning, governance, verification, and recovery operate as one coherent system rather than fragmented subsystems.
+I build autonomous intelligence systems at the intersection of AI, orchestration, architecture, and execution.
 
-I am especially interested in:
-- autonomous agent orchestration
+My work focuses on:
+- autonomous agent systems and orchestration
 - multi-agent coordination and swarm intelligence
-- governance-aware execution and verification
-- full-stack system design and platform engineering
-- AI-native product development
+- mission-driven workflow automation
+- governance and verification layers
+- AI-native product engineering
+- platform reliability and self-healing systems
+
+I'm building JAHIDS.AI as a unified autonomous intelligence operating system where agents, memory, tools, governance, planning, execution, and verification work together as one coherent platform rather than fragmented subsystems.
 
 ---
 
-## Mission
+## Current Focus
 
-Building JAHIDS.AI — a sovereign autonomous intelligence operating system that integrates memory, reasoning, mission planning, execution, verification, and recovery into one governed platform.
-
----
-
-## Core Focus
-
-- AI agent systems and orchestration
-- Mission-driven automation
-- Governance, authorization, and verification
-- Evidence-based execution and auditability
-- Full-stack product engineering
-- Platform reliability and self-healing systems
+- autonomous agent orchestration
+- swarm intelligence and mission execution
+- AI platform architecture
+- intelligent workflow systems
+- governance-aware execution
+- evidence-driven verification
+- production-grade AI systems
 
 ---
 
-## Tech Stack
+## Core Stack
 
-**Languages:** Python, TypeScript, JavaScript, SQL, Go, Bash  
-**Core:** PostgreSQL, Redis, Docker, GitHub Actions, AWS  
-**AI / Agent Systems:** LLM orchestration, RAG, model routing, autonomous workflows  
-**Product / Web:** React, Next.js, Node.js, APIs, full-stack delivery
+Python • TypeScript • JavaScript • SQL • Docker • PostgreSQL • Redis • AWS • LLM Orchestration • Agent Frameworks
 
 ---
 
 ## Featured Projects
 
 ### [AI JARVIS System](https://github.com/mdjahid11978-design/ai-jarvis-system-93b01524)
-Real-time AI system with monitoring, voice control, automation flows, and intelligent agent orchestration.
+Real-time AI system with monitoring, voice control, automation workflows, and autonomous execution.
 
 ### [Agent Swarm](https://github.com/mdjahid11978-design/agent-swarm)
-Agent-to-agent coordination using swarm-style execution, task handoff, and autonomous work distribution.
+Agent-to-agent coordination framework for multi-agent execution and autonomous work distribution.
 
 ### [ClawTeam](https://github.com/mdjahid11978-design/ClawTeam)
-Agent swarm intelligence framework focused on coordinated automation and mission execution.
+Swarm intelligence system focused on coordinated automation and mission execution.
 
 ### [Agent Skills](https://github.com/mdjahid11978-design/agentskills)
-Specification and documentation for agent capability discovery, interaction, and extensibility.
+Specification and documentation for agent capability discovery and coordination.
 
 ### [OpenClaw](https://github.com/mdjahid11978-design/openclaw-8540ee5f)
-Personal AI assistant platform built around agent-first design and platform extensibility.
+Personal AI assistant platform built around agent-first architecture.
 
 ### [FinRobot](https://github.com/mdjahid11978-design/FinRobot)
 Open-source AI agent platform for financial analysis and decision support.
 
 ### [Relic](https://github.com/mdjahid11978-design/relic)
-A memory and personality transfer model for AI agents using structured Markdown-based state transfer.
+Framework for transferring agent memory and personality across AI systems.
 
 ### [Hermes Agent](https://github.com/mdjahid11978-design/hermes-agent)
-Personal agent system designed to grow with the user and adapt over time.
+Personal agent system designed to adapt and grow with the user.
 
 ---
 
@@ -77,7 +73,7 @@ Personal agent system designed to grow with the user and adapt over time.
 
 - unified systems over fragmented tools
 - governance alongside autonomy
-- evidence-driven execution and auditability
+- evidence-driven execution
 - resilient infrastructure and self-healing workflows
 - architecture that scales without losing clarity
 
